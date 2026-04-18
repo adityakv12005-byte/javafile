@@ -8,7 +8,7 @@ program4 output : https://github.com/adityakv12005-byte/javafile/blob/main/Scree
 
 program5 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20001508.png
 
-program5b output :
+program5b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20002900.png
 
 program6 output :
 
