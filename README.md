@@ -10,6 +10,8 @@ progran 2b output : https://github.com/adityakv12005-byte/javafile/blob/main/Scr
 
 program3 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-18%20234811.png
 
+program3b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20013817.png
+
 program4 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20000314.png
 
 program5 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20001508.png
