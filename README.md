@@ -2,7 +2,7 @@ program1 output : https://github.com/adityakv12005-byte/javafile/blob/main/Scree
 
 program1b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20004315.png
 
-program1c output : 
+program1c output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20012015.png
 
 program2 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-18%20233017.png
 
