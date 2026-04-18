@@ -1,5 +1,9 @@
 program1 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-18%20223027.png
 
+program1b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20004315.png
+
+program1c output : 
+
 program2 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-18%20233017.png
 
 program3 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-18%20234811.png
