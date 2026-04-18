@@ -24,7 +24,7 @@ program5b output : https://github.com/adityakv12005-byte/javafile/blob/main/Scre
 
 program5c output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20016143.png
 
-program5d output : 
+program5d output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20023354.png
 
 program6 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20004315.png
 
