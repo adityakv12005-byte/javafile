@@ -22,6 +22,10 @@ program5 output : https://github.com/adityakv12005-byte/javafile/blob/main/Scree
 
 program5b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20002900.png
 
+program5c output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20016143.png
+
+program5d output : 
+
 program6 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20004315.png
 
 program6b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20005054.png
