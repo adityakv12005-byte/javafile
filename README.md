@@ -12,4 +12,4 @@ program5b output : https://github.com/adityakv12005-byte/javafile/blob/main/Scre
 
 program6 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20004315.png
 
-program6b output :
+program6b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20005054.png
