@@ -14,7 +14,9 @@ program3b output : https://github.com/adityakv12005-byte/javafile/blob/main/Scre
 
 program3c output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20014303.png
 
-program4 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20000314.png
+program4 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20015145.png
+
+program4b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20000314.png
 
 program5 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20001508.png
 
