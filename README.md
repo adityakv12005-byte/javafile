@@ -40,7 +40,7 @@ program7c output : https://github.com/adityakv12005-byte/javafile/blob/main/Scre
 
 program8 output :
 
-program8b output :
+program8b output : https://github.com/adityakv12005-byte/javafile/blob/main/8b.png
 
 program9 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20151931.png
 
