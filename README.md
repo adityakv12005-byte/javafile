@@ -50,6 +50,6 @@ program9c output :
 
 program10 output :
 
-program10b output :
+program10b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20151931.png
 
 
