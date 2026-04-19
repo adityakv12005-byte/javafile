@@ -31,3 +31,9 @@ program6 output : https://github.com/adityakv12005-byte/javafile/blob/main/Scree
 program6b output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20005054.png
 
 program6c output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20024023.png
+
+program7 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20134717.png
+
+program7b output : 
+
+program7c output :
