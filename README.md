@@ -44,7 +44,7 @@ program8b output : https://github.com/adityakv12005-byte/javafile/blob/main/8b.p
 
 program9 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20151931.png
 
-program9b output :
+program9b output : https://github.com/adityakv12005-byte/javafile/blob/main/9b.png
 
 program9c output : https://github.com/adityakv12005-byte/javafile/blob/main/aditya%209c.png
 
