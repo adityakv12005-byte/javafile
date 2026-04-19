@@ -42,7 +42,7 @@ program8 output :
 
 program8b output :
 
-program9 output :
+program9 output : https://github.com/adityakv12005-byte/javafile/blob/main/Screenshot%202026-04-19%20151931.png
 
 program9b output :
 
