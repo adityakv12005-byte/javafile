@@ -46,7 +46,7 @@ program9 output : https://github.com/adityakv12005-byte/javafile/blob/main/Scree
 
 program9b output :
 
-program9c output :
+program9c output : https://github.com/adityakv12005-byte/javafile/blob/main/aditya%209c.png
 
 program10 output :
 
